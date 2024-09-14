@@ -5,8 +5,7 @@ Tested on: Tapo C210
 ## Introduction
 
 ### Capabilities
-This camera is capable of transmitting its stream on the RTSP protocol on two channels: one at resolution 640x360 and another one at resolution 1920x1080 (despite this model
-has a 2K lens, the 2K stream is accessible through the official app only).
+This camera is capable of transmitting its stream on the RTSP protocol on two channels: one at resolution 640x360 and another one at a higher quality, whose resolution is set in the settings (720p, 1080p, 2K).
 It supports the `ONVIF` standard.
 
 It is also possible to access the video over HTTP, but it's undocumented, unofficial and needs to be improved.
