@@ -27,3 +27,7 @@ Using ONVIF will allow the NVR to properly configure the PTZ controls, allowing 
 
 ### HTTP (unofficial, needs more analysis)
 See [this resource](https://drmnsamoliu.github.io/video.html) but I did not test it. In this way we should be able to unlock a 2K video stream.
+
+## Test
+You can test the RTSP stream on Linux by giving the following command: `ffplay rtsp://<user>:<pass>@<IP_Address>:554/stream1
+`
